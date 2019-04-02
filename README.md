@@ -10,6 +10,9 @@ http://www.machinelearning.ru/wiki/images/6/6d/Voron-ML-1.pdf
 Его же курс лекций, доступный на youtube, на случай, если читать будет излишне обременительно.
 https://youtu.be/qLBkB4sMztk
 
+Лекции и практические материалы от Соколова Евгения
+https://github.com/esokolov
+
 ## Для развития практических навыков программирования на python
 
 https://www.dataquest.io/
