@@ -4,7 +4,10 @@
 
 ## Пример оформления формулы
 ![equation](http://www.sciweavers.org/tex2img.php?eq=1%2Bsin%28mc%5E2%29&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=)
+
 ![img](http://www.sciweavers.org/tex2img.php?eq=%20x%5E%7Bk%7D%20&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=)
+
+h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
 
 ## Основные источники теоретической информации
 
